@@ -1,0 +1,25 @@
+/data/redis_6379/6379/redis.conf   #配置文件
+/data/log/redis.log                        #日志文件
+/var/run/redis_6379.pid                 #PID文件
+/var/lib/redis/6379                         #数据库目录
+/usr/local/bin/redis-server           #启动程序目录
+6379                                               #端口号
+abc123                                           #连接密码
+
+lgx_bl
+92j3udyu
+
+
+VirtualBox
+https://download.virtualbox.org/virtualbox/6.0.10/VirtualBox-6.0.10-132072-Win.exe
+
+
+
+https://www.cnblogs.com/hanmk/p/8810318.html
+https://www.cnblogs.com/aaron-shu/p/9268135.html
+
+
+https://github.com/PickHeBin/Python-.git
+git  clone https://github.com/PickHeBin/Python-.git  #cp
+
+
